@@ -5,7 +5,7 @@ Ia sengaja disimpan di luar server Everloop. Kalau suatu saat server kami dibobo
 APK, SHA-256, serta sidik jarinya diganti bersamaan, angka di sini tidak ikut berubah, sehingga
 penggantian itu ketahuan.
 
-Unduh aplikasi hanya dari **https://everloop.amincloud.id/link** (berkasnya di `/app`), lalu cocokkan angkanya dengan
+Unduh aplikasi hanya dari halaman **https://everloop.amincloud.id/app**, lalu cocokkan angkanya dengan
 tabel di bawah.
 
 ## Sidik jari APK
@@ -23,6 +23,7 @@ SHA-256 berkas APK berbeda untuk setiap rilis:
 
 | Versi | Tanggal | SHA-256 berkas APK (arm64) | SHA-256 berkas APK (universal) |
 |---|---|---|---|
+| 1.0.1 (kode 2) | 9 November 2026 | `e6f62797afe41cc5a3786138e2ef2d225cfe1163c319031262a79dcaf69e803e` | `bd92f5e7bbb2e27bb36277fdf55b6df93062dfbe6c8f1aa9a09a80e5542f3eb7` |
 | 1.0.0 (kode 1) | 9 November 2026 | `01817c02e1014cd4019958df1a195e15968ed35f4fcb06641858fceed8d6549f` | `d199dc1917a17bbe4f1c988fa2deb00da6b9188b43e48e62f353fe2dffbe0db8` |
 
 ## Cara memeriksa
