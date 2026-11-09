@@ -23,6 +23,7 @@ SHA-256 berkas APK berbeda untuk setiap rilis:
 
 | Versi | Tanggal | SHA-256 berkas APK (arm64) | SHA-256 berkas APK (universal) |
 |---|---|---|---|
+| 1.0.2 (kode 3) | 9 November 2026 | `550ef45a75047334aa09d9ed6e99700ca812e00d6b5ea8e48604028833be85a1` | `dad19110f6b6b2ae721abf2e1ef9bf1aff82fa0ae4c30ffe1a533d661292f6a8` |
 | 1.0.1 (kode 2) | 9 November 2026 | `e6f62797afe41cc5a3786138e2ef2d225cfe1163c319031262a79dcaf69e803e` | `bd92f5e7bbb2e27bb36277fdf55b6df93062dfbe6c8f1aa9a09a80e5542f3eb7` |
 | 1.0.0 (kode 1) | 9 November 2026 | `01817c02e1014cd4019958df1a195e15968ed35f4fcb06641858fceed8d6549f` | `d199dc1917a17bbe4f1c988fa2deb00da6b9188b43e48e62f353fe2dffbe0db8` |
 
