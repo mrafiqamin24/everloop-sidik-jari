@@ -10,10 +10,18 @@ tabel di bawah.
 
 ## Sidik jari APK
 
-Semua rilis ditandatangani dengan **satu sertifikat yang sama**. Kalau sidik jari sertifikat
-di APK Anda berbeda dari baris di bawah, **jangan pasang** APK itu.
+Semua rilis ditandatangani dengan **satu sertifikat yang sama**:
 
-| Versi | Tanggal | SHA-256 sertifikat penanda tangan | SHA-256 berkas APK (arm64) |
+**SHA-256 sertifikat:**
+```
+7B:2F:D5:CE:E0:E9:98:03:1A:DB:CC:14:D9:98:E7:25:A6:AE:42:70:A6:D9:E9:C3:2A:78:86:4A:04:03:91:A0
+```
+Berlaku sampai 27 Maret 2054. Kalau sidik jari sertifikat di APK Anda berbeda dari angka di atas,
+**jangan pasang** APK itu.
+
+SHA-256 berkas APK berbeda untuk setiap rilis:
+
+| Versi | Tanggal | SHA-256 berkas APK (arm64) | SHA-256 berkas APK (universal) |
 |---|---|---|---|
 | _belum ada rilis_ | – | – | – |
 
